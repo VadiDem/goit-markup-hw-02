@@ -76,4 +76,46 @@ ul {
   background-color: #2f303a;
 }
 
+.footer .map-link a {
+  width: 231px;
+  height: 21px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1, 7;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+.footer .map-link {
+  color: #ffffff;
+}
+
+.footer .map-link:hover,
+.footer .map-link:focus {
+  color: #2196f3;
+}
+
+.footer .link a {
+  width: 231px;
+  height: 21px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1, 7;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.footer .link {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.footer .link:hover,
+.footer .link:focus {
+  color: #2196f3;
+}
+
 /*  */
