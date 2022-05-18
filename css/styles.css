@@ -105,6 +105,84 @@ body {
   color: #ffffff;
 }
 
+.competences h2 {
+  display: none;
+}
+
+.competences h3 {
+  width: 270px;
+  height: 16px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1, 14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
+
+.competences p {
+  width: 270px;
+  height: 75px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1, 7;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.work h2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1, 16;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.crew {
+  background-color: #f5f4fa;
+}
+
+.crew h2 {
+  border-bottom: 50px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1, 36;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.crew h3 {
+  width: 151px;
+  height: 19px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1, 18;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.crew p {
+  width: 147px;
+  height: 19px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1, 18;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
 ul {
   list-style: none;
 }
